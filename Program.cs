@@ -8,6 +8,10 @@ namespace VoLogicalProgramming
         public static void Main(string[] args)
         {
             VowelAndConsonant.CheckTheCharacter();
+            Swap.SwapingTheNumber();
+            Fibonacci.Fibbonacci_Series();
+
+
         }
     }
 }
